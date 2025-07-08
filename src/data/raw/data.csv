@@ -1,0 +1,168 @@
+user_goal,habit_log,habit_type,sentiment,aligned
+I want to learn how to play the guitar.,I practiced guitar for 30 minutes today.,Learning,Positive,True
+I want to learn how to play the guitar.,I watched TV instead of practicing guitar.,Distraction,Negative,False
+I want to learn a new language.,I practiced Spanish for 15 minutes today.,Learning,Positive,True
+I want to learn a new language.,I didn't practice my language skills this week.,Learning,Negative,False
+I want to learn photography.,I took photos in manual mode and watched a tutorial.,Learning,Positive,True
+I want to learn photography.,I scrolled social media for 2 hours.,Distraction,Negative,False
+I want to learn cooking skills.,I tried a new recipe for dinner.,Cooking,Positive,True
+I want to learn cooking skills.,I ordered takeout instead of cooking.,Cooking,Negative,False
+I want to improve my fitness level.,I went for a 5 km run this morning.,Fitness,Positive,True
+I want to improve my fitness level.,I skipped my workout today.,Fitness,Negative,False
+I want to eat healthier.,I cooked a healthy dinner with vegetables.,Nutrition,Positive,True
+I want to eat healthier.,I ordered fast food for lunch.,Nutrition,Negative,False
+I want to improve my sleep quality.,I went to bed early and slept for 8 hours.,Sleep,Positive,True
+I want to improve my sleep quality.,I stayed up late scrolling through my phone.,Sleep,Negative,False
+I want to meditate daily.,I meditated for 10 minutes today.,Mindfulness,Positive,True
+I want to reduce stress.,I took a walk in the park to relax.,Mindfulness,Positive,True
+I want to reduce stress.,I worked late and didn't take breaks.,Mindfulness,Negative,False
+I want to practice gratitude.,I wrote down three things I am grateful for.,Mindfulness,Positive,True
+I want to practice gratitude.,I didn't reflect on what I am grateful for today.,Mindfulness,Negative,False
+I want to declutter my home.,I organized my closet today.,Organization,Positive,True
+I want to declutter my home.,I left my room messy and didn't organize anything.,Organization,Negative,False
+I want to improve my time management skills.,I planned my week ahead and prioritized tasks.,Organization,Positive,True
+I want to improve my time management skills.,I procrastinated and missed my deadlines.,Distraction,Negative,False
+I want to spend more time with family.,I had dinner with my family tonight.,Relationships,Positive,True
+I want to spend more time with family.,I spent the evening working instead of with family.,Relationships,Negative,False
+I want to volunteer more.,I volunteered at the local shelter this weekend.,Community Service,Positive,True
+I want to volunteer more.,I didn't find time to volunteer this month.,Community Service,Negative,False
+I want to save money.,I saved $50 this week.,Finance,Positive,True
+I want to save money.,I bought a new gadget I didn't need.,Finance,Negative,False
+I want to learn about personal finance.,I read an article on budgeting today.,Finance,Positive,True
+I want to learn about personal finance.,I ignored my budget and spent impulsively.,Finance,Negative,False
+I want to improve my public speaking skills.,I practiced a speech in front of friends.,Communication,Positive,True
+I want to improve my public speaking skills.,I avoided speaking in public this week.,Communication,Negative,False
+I want to read more books.,I read 20 pages of a book today.,Reading,Positive,True
+I want to read more books.,I spent the evening watching YouTube instead of reading.,Distraction,Negative,False
+I want to improve my coding skills.,I solved 2 LeetCode problems today.,Programming,Positive,True
+I want to improve my coding skills.,I watched TV for 3 hours instead of coding.,Distraction,Negative,False
+I want to learn Python.,I completed a Python tutorial on functions.,Programming,Positive,True
+I want to learn Python.,I didn't open my Python course this week.,Programming,Negative,False
+I want to contribute to open source.,I submitted a pull request to a GitHub project.,Programming,Positive,True
+I want to contribute to open source.,I spent the evening gaming instead of coding.,Distraction,Negative,False
+I want to build a personal website.,I designed the homepage layout in HTML and CSS.,Programming,Positive,True
+I want to build a personal website.,I procrastinated and didn't write any code.,Programming,Negative,False
+I want to master data structures.,I implemented a binary search tree in Python.,Programming,Positive,True
+I want to master data structures.,I watched random videos instead of studying algorithms.,Distraction,Negative,False
+I want to learn web development.,I built a simple to-do app using React.,Programming,Positive,True
+I want to learn web development.,I didn't work on my web development course this week.,Programming,Negative,False
+I want to learn machine learning.,I completed a lesson on linear regression.,Programming,Positive,True
+I want to learn machine learning.,I didn't study any ML concepts today.,Programming,Negative,False
+I want to travel more.,I researched destinations and made a travel plan.,Planning,Positive,True
+I want to travel more.,I didn't look into any travel options this month.,Planning,Negative,False
+I want to learn to draw.,I sketched for 20 minutes today.,Learning,Positive,True
+I want to learn to draw.,I didn't practice drawing at all this week.,Learning,Negative,False
+I want to be more eco-friendly.,I used a reusable bag for groceries.,Sustainability,Positive,True
+I want to be more eco-friendly.,I used disposable plastic bags for shopping.,Sustainability,Negative,False
+I want to improve my handwriting.,I practiced cursive writing for 15 minutes.,Learning,Positive,True
+I want to improve my handwriting.,I didn't write anything by hand today.,Learning,Negative,False
+I want to learn to swim.,I attended a swimming lesson.,Fitness,Positive,True
+I want to learn to swim.,I skipped my swimming class.,Fitness,Negative,False
+I want to be more punctual.,I arrived 10 minutes early for my meeting.,Organization,Positive,True
+I want to be more punctual.,I was late to my appointment.,Organization,Negative,False
+I want to improve my drawing skills.,I watched drawing tutorials but didn't practice.,Learning,Negative,False
+I want to improve my drawing skills.,I drew a portrait sketch today.,Learning,Positive,True
+I want to learn JavaScript.,I completed a JavaScript exercise on arrays.,Programming,Positive,True
+I want to learn JavaScript.,I didn't touch my JavaScript course today.,Programming,Negative,False
+I want to get better at debugging code.,I debugged a tricky bug in my project.,Programming,Positive,True
+I want to get better at debugging code.,I ignored the bugs and left them for later.,Programming,Negative,False
+I want to write cleaner code.,I refactored my code and added comments.,Programming,Positive,True
+I want to write cleaner code.,I wrote messy code without documentation.,Programming,Negative,False
+I want to learn algorithms.,I studied sorting algorithms today.,Programming,Positive,True
+I want to learn algorithms.,I didn't study any algorithms this week.,Programming,Negative,False
+I want to drink more water.,I drank 8 glasses of water today.,Health,Positive,True
+I want to drink more water.,I forgot to drink enough water.,Health,Negative,False
+I want to quit smoking.,I didn't smoke today.,Health,Positive,True
+I want to quit smoking.,I smoked two cigarettes today.,Health,Negative,False
+I want to manage my anger better.,I practiced deep breathing when I felt angry.,Mindfulness,Positive,True
+I want to manage my anger better.,I yelled during an argument.,Mindfulness,Negative,False
+I want to be more organized at work.,I made a to-do list and followed it.,Organization,Positive,True
+I want to be more organized at work.,I didn't plan my tasks and missed a deadline.,Organization,Negative,False
+I want to improve my listening skills.,I listened attentively during meetings.,Communication,Positive,True
+I want to improve my listening skills.,I interrupted others during conversations.,Communication,Negative,False
+I want to learn to play chess.,I played two games of chess online.,Learning,Positive,True
+I want to learn to play chess.,I didn't play or study chess today.,Learning,Negative,False
+I want to improve my memory.,I practiced memory exercises for 15 minutes.,Learning,Positive,True
+I want to improve my memory.,I didn't do any memory training today.,Learning,Negative,False
+I want to be more positive.,I complimented a coworker today.,Mindfulness,Positive,True
+I want to be more positive.,I complained about everything today.,Mindfulness,Negative,False
+I want to learn C++.,I wrote a C++ program for file handling.,Programming,Positive,True
+I want to learn C++.,I didn't practice any C++ today.,Programming,Negative,False
+I want to get better at competitive programming.,I participated in a Codeforces contest.,Programming,Positive,True
+I want to get better at competitive programming.,I didn't solve any problems today.,Programming,Negative,False
+I want to learn SQL.,I wrote SQL queries to fetch data from a database.,Programming,Positive,True
+I want to learn SQL.,I didn't open my SQL course today.,Programming,Negative,False
+I want to learn data visualization.,I created a matplotlib plot in Python.,Programming,Positive,True
+I want to learn data visualization.,I didn't work on any data visualization tasks.,Programming,Negative,False
+I want to improve my coding skills.,I spent the day browsing memes online.,Distraction,Negative,False
+I want to read more books.,I played mobile games for hours instead of reading.,Distraction,Negative,False
+I want to save money.,I bought expensive coffee every day this week.,Finance,Negative,False
+I want to eat healthier.,I ate chips and soda for dinner.,Nutrition,Negative,False
+I want to meditate daily.,I forgot to meditate and felt stressed.,Mindfulness,Negative,False
+I want to improve my public speaking skills.,I skipped the opportunity to present at work.,Communication,Negative,False
+I want to learn about personal finance.,I spent money on unnecessary subscriptions.,Finance,Negative,False
+I want to improve my fitness level.,I binged on junk food and skipped exercise.,Fitness,Negative,False
+I want to learn Rust.,I completed a Rust ownership tutorial.,Programming,Positive,True
+I want to learn Rust.,I didn't read any Rust documentation today.,Programming,Negative,False
+I want to contribute to open source.,I joined an open source community call.,Programming,Positive,True
+I want to contribute to open source.,I didn't check any open source issues this week.,Programming,Negative,False
+I want to improve my problem-solving skills.,I solved a challenging puzzle today.,Learning,Positive,True
+I want to improve my problem-solving skills.,I avoided working on any puzzles or problems.,Learning,Negative,False
+I want to learn data analysis.,I analyzed a dataset using pandas.,Programming,Positive,True
+I want to learn data analysis.,I didn't open my data analysis course today.,Programming,Negative,False
+I want to improve my focus.,I worked for 2 hours without checking my phone.,Mindfulness,Positive,True
+I want to improve my focus.,I kept getting distracted by notifications.,Distraction,Negative,False
+I want to learn cloud computing.,I deployed an app to AWS today.,Programming,Positive,True
+I want to learn cloud computing.,I didn't study any cloud concepts this week.,Programming,Negative,False
+I want to improve my teamwork skills.,I collaborated with my team on a group project.,Communication,Positive,True
+I want to improve my teamwork skills.,I worked alone and didn't communicate with my team.,Communication,Negative,False
+I want to learn about cybersecurity.,I completed a module on network security.,Programming,Positive,True
+I want to learn about cybersecurity.,I didn't review any cybersecurity materials today.,Programming,Negative,False
+I want to grow my own vegetables.,I watered my vegetable garden and checked for pests.,Gardening,Positive,True
+I want to grow my own vegetables.,I forgot to water my plants for three days.,Gardening,Negative,False
+I want to learn to play chess.,I watched a chess strategy video and played a game online.,Learning,Positive,True
+I want to learn to play chess.,I didn't practice chess today.,Learning,Negative,False
+I want to keep my car in good condition.,I checked the tire pressure and cleaned the car interior.,Maintenance,Positive,True
+I want to keep my car in good condition.,I ignored the check engine light.,Maintenance,Negative,False
+I want to improve my digital privacy.,I updated my passwords and enabled two-factor authentication.,Security,Positive,True
+I want to improve my digital privacy.,I used the same password for multiple accounts.,Security,Negative,False
+I want to reduce my screen time.,I put my phone away during meals and before bed.,Wellbeing,Positive,True
+I want to reduce my screen time.,I spent hours scrolling social media late at night.,Wellbeing,Negative,False
+I want to be more environmentally conscious.,I used public transport instead of driving.,Sustainability,Positive,True
+I want to be more environmentally conscious.,I drove alone instead of carpooling.,Sustainability,Negative,False
+I want to improve my fashion sense.,I organized my wardrobe and planned outfits for the week.,Lifestyle,Positive,True
+I want to improve my fashion sense.,I wore the same clothes for several days.,Lifestyle,Negative,False
+I want to keep in touch with old friends.,I called a college friend and caught up.,Relationships,Positive,True
+I want to keep in touch with old friends.,I didn't reply to my friend's message.,Relationships,Negative,False
+I want to be more involved in my community.,I attended a neighborhood meeting.,Community Service,Positive,True
+I want to be more involved in my community.,I ignored invitations to local events.,Community Service,Negative,False
+I want to improve my cooking skills.,I tried a new international recipe.,Cooking,Positive,True
+I want to improve my cooking skills.,I ate instant noodles for dinner.,Cooking,Negative,False
+I want to be more prepared for emergencies.,I checked my first aid kit and emergency supplies.,Safety,Positive,True
+I want to be more prepared for emergencies.,I realized my emergency kit is missing essentials.,Safety,Negative,False
+I want to learn to play a new sport.,I attended my first tennis lesson.,Fitness,Positive,True
+I want to learn to play a new sport.,I skipped my tennis lesson to watch TV.,Fitness,Negative,False
+I want to improve my financial literacy.,I watched a documentary about investing.,Finance,Positive,True
+I want to improve my financial literacy.,I ignored my monthly bank statement.,Finance,Negative,False
+I want to be more creative.,I spent an hour painting with watercolors.,Creativity,Positive,True
+I want to be more creative.,I didn't do any creative activities today.,Creativity,Negative,False
+I want to reduce food waste.,I planned meals using leftovers.,Sustainability,Positive,True
+I want to reduce food waste.,I threw away spoiled vegetables.,Sustainability,Negative,False
+I want to improve my handwriting.,I practiced calligraphy for 20 minutes.,Learning,Positive,True
+I want to improve my handwriting.,I only typed on my computer today.,Learning,Negative,False
+I want to be more punctual.,I arrived early for my doctor's appointment.,Organization,Positive,True
+I want to be more punctual.,I was late to pick up my child from school.,Organization,Negative,False
+I want to learn to play the piano.,I practiced piano scales for 30 minutes.,Learning,Positive,True
+I want to learn to play the piano.,I didn't touch the piano today.,Learning,Negative,False
+I want to keep my house clean.,I vacuumed and dusted the living room.,Organization,Positive,True
+I want to keep my house clean.,I left dirty dishes in the sink overnight.,Organization,Negative,False
+I want to improve my photography skills.,I took photos during golden hour and reviewed them.,Learning,Positive,True
+I want to improve my photography skills.,I didn't take any photos this week.,Learning,Negative,False
+I want to be more mindful of my spending.,I tracked all my expenses in an app.,Finance,Positive,True
+I want to be more mindful of my spending.,I made several impulse purchases online.,Finance,Negative,False
+I want to learn to bake.,I baked homemade bread for the first time.,Cooking,Positive,True
+I want to learn to bake.,I bought pastries instead of baking.,Cooking,Negative,False
+I want to improve my public speaking.,I gave a short speech at a local event.,Communication,Positive,True
+I want to improve my public speaking.,I avoided speaking up in a meeting.,Communication,Negative,False
+I want to be more grateful.,I wrote a thank-you note to a colleague.,Mindfulness,Positive,True
+I want to be more grateful.,I didn't acknowledge anyone's help today.,Mindfulness,Negative,False
