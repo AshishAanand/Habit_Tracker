@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #444343;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.greeting > h1 {
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.greeting > p {
+    font-size: 1.2rem;
+    color: #b0acac;
+    font-style: italic;
+}
+
+.greeting > blockquote {
+    font-size: 1.5rem;
+    color: #d0c0c0;
+    border-left: 4px solid #ccc;
+    padding-left: 20px;
+    margin: 20px 0;
+}
+
+.inputs {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.inputs > label {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #3d3b3b;
+    font-size: 1rem;
+}
+
+.inputs > input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #3d3b3b;
+    font-size: 1rem;
+    background-color: #555353;
+    color: #ffffff;
+}
+
+.inputs > input::placeholder {
+    color: #f7f7f7;
+}
