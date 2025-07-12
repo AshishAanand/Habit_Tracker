@@ -5,8 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "joblib>=1.5.1",
-    "pandas>=2.3.1",
+    "joblib==1.4.2",
+    "pandas==2.2.3",
+    "scikit-learn==1.6.0",
     "sentence-transformers>=5.0.0",
     "streamlit>=1.46.1",
+    "transformers>=4.53.1",
 ]
